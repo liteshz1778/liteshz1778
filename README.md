@@ -34,5 +34,7 @@
   <li>Udemy</li>
   <ol>
     <li><a href="https://drive.google.com/file/d/1OXgvT6BqFUJUmI0Ptsx9UCZpzEe6P09r/view?usp=sharing">Certified Kubernetes Administrator CKA with Practice Tests</a></li>
+    <li><a href="https://drive.google.com/file/d/1ZDgOKyPGfd_nFa-uc-7gtHqW1usqID0k/view?usp=sharing">REST API Testing, Automation Using Postman</a></li>
+    <li><a href="https://drive.google.com/file/d/16E2eHr2bgScjb9_4tCHXx4Zk4_zFjn68/view?usp=sharing">REST API Automation With Rest Assured</a></li>
   </ol>
 </ul>
