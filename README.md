@@ -20,36 +20,6 @@
 
 ---
 
-## 🏆 Certifications
-
-### ☁️ AWS Cloud Certifications
-
-- [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/4b4a07da-2f17-4f1e-a7d3-8e8f2d9840f3/public_url)
-
-
-### ☸️ KodeKloud Certifications
-
-- [Terraform Basic Training](https://drive.google.com/file/d/1hFJfO7uy8Bmp5AzfwckwV6vWiZSdDafA/view?usp=sharing)
-
-- [Kubernetes and Cloud Native Associate (KCNA)](https://)
-
-- [Helm for Beginners](https://drive.google.com/file/d/1za4R7vW9BiBj8br8CqwAgN-_w2k53ZOo/view?usp=sharing)
-
-- [Ansible Basic Training](https://drive.google.com/file/d/1JxCQ30G57xE5-FO89owgsiDf-6UsOGMl/view?usp=sharing)
-
-- [Ansible Advanced Training](https://drive.google.com/file/d/1VId1SE8SGYMx5INRwm32GpGJWgmzpRpr/view?usp=sharing)
-
-
-### 📚 Udemy Certifications
-
-- [Certified Kubernetes Administrator (CKA) with Practice Tests](https://drive.google.com/file/d/1OXgvT6BqFUJUmI0Ptsx9UCZpzEe6P09r/view?usp=sharing)
-
-- [REST API Testing & Automation Using Postman](https://drive.google.com/file/d/1ZDgOKyPGfd_nFa-uc-7gtHqW1usqID0k/view?usp=sharing)
-
-- [REST API Automation With Rest Assured](https://drive.google.com/file/d/16E2eHr2bgScjb9_4tCHXx4Zk4_zFjn68/view?usp=sharing)
-
----
-
 ## 🛠️ Tech Stack
 
 ### **Programming & Scripting Languages**
@@ -92,6 +62,44 @@
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
 </p>
+
+---
+
+## 🐳 Container Registry
+
+- Docker Hub: [https://hub.docker.com/u/liteshz](https://hub.docker.com/u/liteshz)
+- Published Docker Images
+- Containerized Kubernetes Applications
+
+---
+
+## 🏆 Certifications
+
+### ☁️ AWS Cloud Certifications
+
+- [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/4b4a07da-2f17-4f1e-a7d3-8e8f2d9840f3/public_url)
+
+
+### ☸️ KodeKloud Certifications
+
+- [Terraform Basic Training](https://drive.google.com/file/d/1hFJfO7uy8Bmp5AzfwckwV6vWiZSdDafA/view?usp=sharing)
+
+- [Kubernetes and Cloud Native Associate (KCNA)](https://)
+
+- [Helm for Beginners](https://drive.google.com/file/d/1za4R7vW9BiBj8br8CqwAgN-_w2k53ZOo/view?usp=sharing)
+
+- [Ansible Basic Training](https://drive.google.com/file/d/1JxCQ30G57xE5-FO89owgsiDf-6UsOGMl/view?usp=sharing)
+
+- [Ansible Advanced Training](https://drive.google.com/file/d/1VId1SE8SGYMx5INRwm32GpGJWgmzpRpr/view?usp=sharing)
+
+
+### 📚 Udemy Certifications
+
+- [Certified Kubernetes Administrator (CKA) with Practice Tests](https://drive.google.com/file/d/1OXgvT6BqFUJUmI0Ptsx9UCZpzEe6P09r/view?usp=sharing)
+
+- [REST API Testing & Automation Using Postman](https://drive.google.com/file/d/1ZDgOKyPGfd_nFa-uc-7gtHqW1usqID0k/view?usp=sharing)
+
+- [REST API Automation With Rest Assured](https://drive.google.com/file/d/16E2eHr2bgScjb9_4tCHXx4Zk4_zFjn68/view?usp=sharing)
 
 ---
 
