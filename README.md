@@ -16,25 +16,54 @@
 <li>Good Experience in Monitoring, Log Analysis & Troubleshoting the Application or Configuration Issues, Errors using tools like Prometheus, Grafana, EFK</li>
 </ol>
 
-## Cerfications
+## 🏆 Certifications
 
-<ul>
-  <li>AWS Cloud Certifications</li>
-  <ol>
-    <li><a href="https://www.credly.com/badges/4b4a07da-2f17-4f1e-a7d3-8e8f2d9840f3/public_url"><b>AWS Certified Cloud Practitioner</b></a></li>
-  </ol>
-  <li>KodeKloud Certifications</li>
-  <ol>
-    <li><a href="https://drive.google.com/file/d/1hFJfO7uy8Bmp5AzfwckwV6vWiZSdDafA/view?usp=sharing">Terraform Basic Training</a></li>
-    <li><a href="">Kubernetes and Cloud Native Associate</a></li>
-    <li><a href="https://drive.google.com/file/d/1za4R7vW9BiBj8br8CqwAgN-_w2k53ZOo/view?usp=sharing">Helm for Begineers</a></li>
-    <li><a href="https://drive.google.com/file/d/1JxCQ30G57xE5-FO89owgsiDf-6UsOGMl/view?usp=sharing">Ansible Basic Training</a></li>
-    <li><a href="https://drive.google.com/file/d/1VId1SE8SGYMx5INRwm32GpGJWgmzpRpr/view?usp=sharing">Ansible Advance Training</a></li>
-  </ol>
-  <li>Udemy</li>
-  <ol>
-    <li><a href="https://drive.google.com/file/d/1OXgvT6BqFUJUmI0Ptsx9UCZpzEe6P09r/view?usp=sharing">Certified Kubernetes Administrator CKA with Practice Tests</a></li>
-    <li><a href="https://drive.google.com/file/d/1ZDgOKyPGfd_nFa-uc-7gtHqW1usqID0k/view?usp=sharing">REST API Testing, Automation Using Postman</a></li>
-    <li><a href="https://drive.google.com/file/d/16E2eHr2bgScjb9_4tCHXx4Zk4_zFjn68/view?usp=sharing">REST API Automation With Rest Assured</a></li>
-  </ol>
-</ul>
+### ☁️ AWS Cloud Certifications
+
+- [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/4b4a07da-2f17-4f1e-a7d3-8e8f2d9840f3/public_url)
+
+
+### ☸️ KodeKloud Certifications
+
+- [Terraform Basic Training](https://drive.google.com/file/d/1hFJfO7uy8Bmp5AzfwckwV6vWiZSdDafA/view?usp=sharing)
+
+- [Kubernetes and Cloud Native Associate (KCNA)](https://)
+
+- [Helm for Beginners](https://drive.google.com/file/d/1za4R7vW9BiBj8br8CqwAgN-_w2k53ZOo/view?usp=sharing)
+
+- [Ansible Basic Training](https://drive.google.com/file/d/1JxCQ30G57xE5-FO89owgsiDf-6UsOGMl/view?usp=sharing)
+
+- [Ansible Advanced Training](https://drive.google.com/file/d/1VId1SE8SGYMx5INRwm32GpGJWgmzpRpr/view?usp=sharing)
+
+
+### 📚 Udemy Certifications
+
+- [Certified Kubernetes Administrator (CKA) with Practice Tests](https://drive.google.com/file/d/1OXgvT6BqFUJUmI0Ptsx9UCZpzEe6P09r/view?usp=sharing)
+
+- [REST API Testing & Automation Using Postman](https://drive.google.com/file/d/1ZDgOKyPGfd_nFa-uc-7gtHqW1usqID0k/view?usp=sharing)
+
+- [REST API Automation With Rest Assured](https://drive.google.com/file/d/16E2eHr2bgScjb9_4tCHXx4Zk4_zFjn68/view?usp=sharing)
+
+
+## 🛠️ Tech Stack
+
+### **Programming & Scripting Languages**
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
+</p>
+
+
+### **Markup & Configuration**
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
+<img src="https://img.shields.io/badge/HCL-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" height="28" alt="HCL"/>
+<img src="https://img.shields.io/badge/YAML-Configuration-red?style=for-the-badge&logo=yaml&logoColor=white" height="28" alt="YAML"/>
+<img src="https://img.shields.io/badge/JSON-Data_Format-black?style=for-the-badge&logo=json&logoColor=white" height="28" alt="JSON"/>
+<img src="https://img.shields.io/badge/XML-Markup-orange?style=for-the-badge&logo=xml&logoColor=white" height="28" alt="XML"/>
+</p>
