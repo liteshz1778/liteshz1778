@@ -26,5 +26,13 @@
   <li>KodeKloud Certifications</li>
   <ol>
     <li><a href="https://drive.google.com/file/d/1hFJfO7uy8Bmp5AzfwckwV6vWiZSdDafA/view?usp=sharing">Terraform Basic Training</a></li>
+    <li><a href="">Kubernetes and Cloud Native Associate</a></li>
+    <li><a href="https://drive.google.com/file/d/1za4R7vW9BiBj8br8CqwAgN-_w2k53ZOo/view?usp=sharing">Helm for Begineers</a></li>
+    <li><a href="https://drive.google.com/file/d/1JxCQ30G57xE5-FO89owgsiDf-6UsOGMl/view?usp=sharing">Ansible Basic Training</a></li>
+    <li><a href="https://drive.google.com/file/d/1VId1SE8SGYMx5INRwm32GpGJWgmzpRpr/view?usp=sharing">Ansible Advance Training</a></li>
+  </ol>
+  <li>Udemy</li>
+  <ol>
+    <li><a href="https://drive.google.com/file/d/1OXgvT6BqFUJUmI0Ptsx9UCZpzEe6P09r/view?usp=sharing">Certified Kubernetes Administrator CKA with Practice Tests</a></li>
   </ol>
 </ul>
