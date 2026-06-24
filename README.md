@@ -21,6 +21,6 @@
 <ul>
   <li>AWS Cloud Certifications</li>
   <ol>
-    <li><b>AWS_Certified_CloudPractitioner</b>: <a herf="https://www.credly.com/badges/4b4a07da-2f17-4f1e-a7d3-8e8f2d9840f3/public_url">Link</a></li>
+    <li><a href="https://www.credly.com/badges/4b4a07da-2f17-4f1e-a7d3-8e8f2d9840f3/public_url"><b>AWS Certified Cloud Practitioner</b></a></li>
   </ol>
 </ul>
