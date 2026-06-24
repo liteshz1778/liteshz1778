@@ -23,4 +23,8 @@
   <ol>
     <li><a href="https://www.credly.com/badges/4b4a07da-2f17-4f1e-a7d3-8e8f2d9840f3/public_url"><b>AWS Certified Cloud Practitioner</b></a></li>
   </ol>
+  <li>KodeKloud Certifications</li>
+  <ol>
+    <li><a href="https://drive.google.com/file/d/1hFJfO7uy8Bmp5AzfwckwV6vWiZSdDafA/view?usp=sharing">Terraform Basic Training</a></li>
+  </ol>
 </ul>
