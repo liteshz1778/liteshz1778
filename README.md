@@ -18,7 +18,9 @@
 
 ## Cerfications
 
-<ol>
-<li>AWS Cloud Practitioner<a herf="">Certificate_Link</a></li>
-<li>
-</ol>
+<ul>
+  <li>AWS Cloud Certifications</li>
+  <ol>
+    <li><a herf="https://www.credly.com/badges/4b4a07da-2f17-4f1e-a7d3-8e8f2d9840f3/public_url">AWS_Certified_CloudPractitioner</a></li>
+  </ol>
+</ul>
