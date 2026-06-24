@@ -6,6 +6,8 @@
 
 </div>
 
+---
+
 ## 🚀 About Me
 
 <ol>
@@ -15,6 +17,8 @@
 <li>Experience in AWS Cloud Services Automation using Terrafrom, Configuration Management Tool such as Ansible</li>
 <li>Good Experience in Monitoring, Log Analysis & Troubleshoting the Application or Configuration Issues, Errors using tools like Prometheus, Grafana, EFK</li>
 </ol>
+
+---
 
 ## 🏆 Certifications
 
@@ -44,6 +48,7 @@
 
 - [REST API Automation With Rest Assured](https://drive.google.com/file/d/16E2eHr2bgScjb9_4tCHXx4Zk4_zFjn68/view?usp=sharing)
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -88,6 +93,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
 </p>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -104,4 +111,14 @@
 ## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=liteshz1778&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-zadane1778.litesh@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zadane1778.litesh@gmail.com)
+
 </div>
