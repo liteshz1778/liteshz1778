@@ -97,6 +97,39 @@ Explore my Docker Hub repositories:
 
 ---
 
+## ⭐ DevOps Repository Collections
+
+I maintain curated GitHub repository lists covering DevOps, Cloud Native, Kubernetes, and Infrastructure Automation topics.
+
+<p align="left">
+
+<a href="https://github.com/stars/liteshz1778/lists/devops-projects">
+<img src="https://img.shields.io/badge/GitHub-DevOps%20Projects-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/stars/liteshz1778/lists/devops-demo-deployment-app-repos">
+<img src="https://img.shields.io/badge/GitHub-DevOps%20Demo%20Deployments-blue?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/stars/liteshz1778/lists/devops-repos">
+<img src="https://img.shields.io/badge/GitHub-DevOps%20Resources-green?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+### Collections
+
+- ☸️ **DevOps Projects**  
+  Hands-on projects related to Kubernetes, Cloud, CI/CD, Infrastructure Automation, and Monitoring.
+
+- 🚀 **DevOps Demo Deployment Applications**  
+  Sample applications demonstrating deployment workflows using Docker, Kubernetes, Helm, Gateway API, etc.
+
+- 🛠️ **DevOps Resources**  
+  Curated repositories related to DevOps tools, best practices, and learning resources.
+
+---
+
 ## 🏆 Certifications
 
 ### ☁️ AWS Cloud Certifications
