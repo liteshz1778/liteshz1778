@@ -65,11 +65,35 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### ☸️ Kubernetes & Cloud Native Projects
+
+- EFK Stack Deployment on Kubernetes
+- Kubernetes Gateway API Traffic Splitting
+- Secure Elasticsearch Cluster with Fluentd Integration
+- Prometheus + Grafana Monitoring Stack
+- Kubernetes Application Deployment using Helm
+
+---
+
 ## 🐳 Container Registry
 
-- Docker Hub: [https://hub.docker.com/u/liteshz](https://hub.docker.com/u/liteshz)
-- Published Docker Images
-- Containerized Kubernetes Applications
+<p align="left">
+  <a href="https://hub.docker.com/u/liteshz" target="_blank">
+    <img src="https://img.shields.io/badge/Docker%20Hub-liteshz1778-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub"/>
+  </a>
+</p>
+
+### Published Docker Images
+
+- 🐳 Custom Docker Images
+- ☸️ Containerized Kubernetes Applications
+- 🚀 Application Images for DevOps Projects
+
+Explore my Docker Hub repositories:
+
+🔗 [Docker Hub Profile](https://hub.docker.com/u/liteshz)
 
 ---
 
