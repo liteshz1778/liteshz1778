@@ -4,6 +4,8 @@
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AWS+Cloud+%7C+DevOps+%7C+SRE+Engineer;3+Years+Of+Hands-On+Experience;Certified+AWS+Cloud+Practitioner)](https://git.io/typing-svg)
 
+<img src="https://komarev.com/ghpvc/?username=liteshz1778&label=Profile_Views&color=0e75b6&style=for-the-badge" />
+
 </div>
 
 ---
