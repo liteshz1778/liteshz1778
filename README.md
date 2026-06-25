@@ -1,8 +1,12 @@
 <div align="center">
-  
-# Hi I'm Litesh Zadane 👋
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=AWS+Cloud+%7C+DevOps+%7C+SRE+Engineer;3+Years+Of+Hands-On+Experience;Certified+AWS+Cloud+Practitioner)](https://git.io/typing-svg)
+# Hi, I'm Litesh Zadane 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=550&lines=DevOps+%7C+SRE+%7C+Cloud+Platform+Engineer;AWS+Cloud+%7C+Kubernetes+%7C+Terraform+%7C+Docker;3%2B+Years+of+Hands-On+Experience;Certified+AWS+Cloud+Practitioner)](https://git.io/typing-svg)
+
+<p>
+☁️ AWS Cloud | ☸️ Kubernetes | 🏗️ Terraform | 🐳 Docker | 🔄 CI/CD | 📊 Observability
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=liteshz1778&label=Profile_Views&color=0e75b6&style=for-the-badge" />
 
