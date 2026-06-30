@@ -103,9 +103,21 @@ Explore my Docker Hub repositories:
 
 ---
 
-📦 **Helm Chart Repository** - Created and maintained reusable Helm charts for Kubernetes application deployment, including Deployments, Services, ConfigMaps, Secrets, StatefulSets, and persistent storage configurations.
+## 📦 Helm Chart Repository
 
-🔗 Repository: https://github.com/liteshz1778/helm-charts
+[![Helm](https://img.shields.io/badge/Helm-Charts-0F1689?style=for-the-badge&logo=helm&logoColor=white)](https://github.com/liteshz1778/helm-charts)
+
+Created and maintained reusable Helm charts for Kubernetes application deployment, including:
+
+- Kubernetes Deployments
+- Services
+- ConfigMaps
+- Secrets
+- StatefulSets
+- Persistent Volumes & Storage Configurations
+
+🔗 Repository:
+https://github.com/liteshz1778/helm-charts
 
 ---
 
