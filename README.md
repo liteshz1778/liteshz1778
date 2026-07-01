@@ -165,14 +165,15 @@ I maintain curated GitHub repository lists covering DevOps, Cloud Native, Kubern
 
 - [Terraform Basic Training](https://drive.google.com/file/d/1hFJfO7uy8Bmp5AzfwckwV6vWiZSdDafA/view?usp=sharing)
 
+<!----
 - [Kubernetes and Cloud Native Associate (KCNA)](https://)
+--->
 
 - [Helm for Beginners](https://drive.google.com/file/d/1za4R7vW9BiBj8br8CqwAgN-_w2k53ZOo/view?usp=sharing)
 
 - [Ansible Basic Training](https://drive.google.com/file/d/1JxCQ30G57xE5-FO89owgsiDf-6UsOGMl/view?usp=sharing)
 
 - [Ansible Advanced Training](https://drive.google.com/file/d/1VId1SE8SGYMx5INRwm32GpGJWgmzpRpr/view?usp=sharing)
-
 
 ### 📚 Udemy Certifications
 
