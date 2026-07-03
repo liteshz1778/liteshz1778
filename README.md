@@ -187,10 +187,10 @@ I maintain curated GitHub repository lists covering DevOps, Cloud Native, Kubern
 
 ## 📊 GitHub Stats
 
-<div align>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=liteshz1778&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=liteshz1778&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width=500/>
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=liteshz1778&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=liteshz1778&layout=compact&theme=tokyonight&hide_border=true" width=400/>
 </div>
 
 <div align="center">
