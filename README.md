@@ -188,17 +188,18 @@ I maintain curated GitHub repository lists covering DevOps, Cloud Native, Kubern
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liteshz1778&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liteshz1778&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=liteshz1778&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="500"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=liteshz1778&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liteshz1778&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liteshz1778&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500">
 </div>
 
 ---
 
 ## 📈 Activity Graph
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=liteshz1778&theme=tokyo-night&hide_border=true" alt="Activity Graph">
 </div>
