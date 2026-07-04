@@ -75,7 +75,7 @@
 
 ---
 
-<details open> 
+<details> 
   <summary><h2>🚀 Featured Projects</h2></summary>
 
   ### ☸️ Kubernetes & Cloud Native Projects
