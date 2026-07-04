@@ -230,9 +230,22 @@
 
 ---
 
-<details> 
+<details open>
   <summary><h2>🌐 Connect With Me</h2></summary>
-  <div align="center">
-    [![Email](https://img.shields.io/badge/Email-zadane1778.litesh@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zadane1778.litesh@gmail.com)
-  </div>
+  <p align="center">
+    <a href="mailto:zadane1778.litesh@gmail.com">
+      <img src="https://img.shields.io/badge/Email-zadane1778.litesh%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://github.com/liteshz1778">
+      <img src="https://img.shields.io/badge/GitHub-liteshz1778-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <!-------
+    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    ----->
+    <a href="https://hub.docker.com/u/liteshz">
+      <img src="https://img.shields.io/badge/Docker%20Hub-Profile-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    </a>
+  </p>
 </details>
