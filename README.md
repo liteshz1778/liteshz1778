@@ -170,7 +170,7 @@
 
 ---
 
-<details open> 
+<details> 
   <summary><h2>🏆 Certifications</h2></summary>
 
   ### ☁️ AWS Cloud Certifications
