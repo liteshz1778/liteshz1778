@@ -95,7 +95,7 @@
   
   <p align="left">
     <a href="https://hub.docker.com/u/liteshz" target="_blank">
-      <img src="https://img.shields.io/badge/Docker%20Hub-liteshz1778-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub"/>
+      <img src="https://img.shields.io/badge/Docker%20Hub-liteshz-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub"/>
     </a>
   </p>
   
