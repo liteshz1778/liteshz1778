@@ -245,7 +245,7 @@
     </a>
     ----->
     <a href="https://hub.docker.com/u/liteshz">
-      <img src="https://img.shields.io/badge/Docker%20Hub-Profile-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker%20Hub-liteshz-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     </a>
   </p>
 </details>
