@@ -2,7 +2,7 @@
   
   <img width="700" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=220&section=header&text=Hi,%20I%27m%20Litesh%20Zadane%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&reversal=false"/>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=550&lines=DevOps+%7C+SRE+%7C+Cloud+Platform+Engineer;AWS+Cloud+%7C+Kubernetes+%7C+Terraform+%7C+Docker;3%2B+Years+of+Hands-On+Experience;Certified+AWS+Cloud+Practitioner)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=550&lines=DevOps+%7C+SRE+%7C+Cloud+Platform+Engineer;AWS+Cloud+%7C+Kubernetes+%7C+Terraform+%7C+Docker;4%2B+Years+of+Hands-On+Experience;Certified+AWS+Cloud+Practitioner)](https://git.io/typing-svg)
   
   <p>
     ☁️ AWS Cloud | ☸️ Kubernetes | 🏗️ Terraform | 🐳 Docker | 🔄 CI/CD | 📊 Observability
