@@ -10,7 +10,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=liteshz1778&label=Profile_Views&color=0e75b6&style=for-the-badge" />
   <a href="https://liteshz-devops-portfolio-web.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Website-0A66C2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0A66C2?style=for-the-badge" />
   </a>
 </p>
 </div>
