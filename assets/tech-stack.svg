@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="520" viewBox="0 0 820 520" role="img" aria-label="Technical skills grouped by category">
+<style>
+.t{font:600 14px 'Segoe UI',Arial,sans-serif}
+.lb{font:600 15px 'Segoe UI',Arial,sans-serif;fill:#6b7a90}
+.c{animation:in .7s ease-out backwards,fl 4.5s ease-in-out infinite}
+.bg{animation:gl 3.6s ease-in-out infinite}
+@keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+@keyframes gl{0%,100%{opacity:.78}50%{opacity:1}}
+@media (prefers-reduced-motion:reduce){.c,.bg{animation:none}}
+</style>
+<text x="6" y="24" class="lb">Test automation</text>
+<g transform="translate(6 36)"><g class="c" style="animation-delay:0.0s,0.0s"><rect class="bg" style="animation-delay:0.0s" width="166" height="32" rx="16" fill="#e0ecff" stroke="#a9c6f5"/><text x="83" y="21" text-anchor="middle" fill="#1e3a6e" class="t">Selenium WebDriver</text></g></g>
+<g transform="translate(182 36)"><g class="c" style="animation-delay:0.35s,0.35s"><rect class="bg" style="animation-delay:0.35s" width="75" height="32" rx="16" fill="#e0ecff" stroke="#a9c6f5"/><text x="37" y="21" text-anchor="middle" fill="#1e3a6e" class="t">TestNG</text></g></g>
+<g transform="translate(267 36)"><g class="c" style="animation-delay:0.7s,0.7s"><rect class="bg" style="animation-delay:0.7s" width="121" height="32" rx="16" fill="#e0ecff" stroke="#a9c6f5"/><text x="60" y="21" text-anchor="middle" fill="#1e3a6e" class="t">Cucumber BDD</text></g></g>
+<g transform="translate(398 36)"><g class="c" style="animation-delay:1.05s,1.05s"><rect class="bg" style="animation-delay:1.05s" width="75" height="32" rx="16" fill="#e0ecff" stroke="#a9c6f5"/><text x="37" y="21" text-anchor="middle" fill="#1e3a6e" class="t">Karate</text></g></g>
+<g transform="translate(483 36)"><g class="c" style="animation-delay:1.4s,1.4s"><rect class="bg" style="animation-delay:1.4s" width="121" height="32" rx="16" fill="#e0ecff" stroke="#a9c6f5"/><text x="60" y="21" text-anchor="middle" fill="#1e3a6e" class="t">REST Assured</text></g></g>
+<g transform="translate(614 36)"><g class="c" style="animation-delay:1.75s,1.75s"><rect class="bg" style="animation-delay:1.75s" width="68" height="32" rx="16" fill="#e0ecff" stroke="#a9c6f5"/><text x="34" y="21" text-anchor="middle" fill="#1e3a6e" class="t">Mocha</text></g></g>
+<g transform="translate(6 78)"><g class="c" style="animation-delay:2.1s,2.1s"><rect class="bg" style="animation-delay:2.1s" width="159" height="32" rx="16" fill="#e0ecff" stroke="#a9c6f5"/><text x="79" y="21" text-anchor="middle" fill="#1e3a6e" class="t">Page Object Model</text></g></g>
+<text x="6" y="144" class="lb">API and performance testing</text>
+<g transform="translate(6 156)"><g class="c" style="animation-delay:2.45s,2.45s"><rect class="bg" style="animation-delay:2.45s" width="83" height="32" rx="16" fill="#dcf5e7" stroke="#9bd7b6"/><text x="41" y="21" text-anchor="middle" fill="#14532d" class="t">Postman</text></g></g>
+<g transform="translate(99 156)"><g class="c" style="animation-delay:2.8s,2.8s"><rect class="bg" style="animation-delay:2.8s" width="75" height="32" rx="16" fill="#dcf5e7" stroke="#9bd7b6"/><text x="37" y="21" text-anchor="middle" fill="#14532d" class="t">SoapUI</text></g></g>
+<g transform="translate(184 156)"><g class="c" style="animation-delay:0.0s,0.0s"><rect class="bg" style="animation-delay:0.0s" width="75" height="32" rx="16" fill="#dcf5e7" stroke="#9bd7b6"/><text x="37" y="21" text-anchor="middle" fill="#14532d" class="t">JMeter</text></g></g>
+<text x="6" y="222" class="lb">Languages and scripting</text>
+<g transform="translate(6 234)"><g class="c" style="animation-delay:0.35s,0.35s"><rect class="bg" style="animation-delay:0.35s" width="98" height="32" rx="16" fill="#fdf0d0" stroke="#eacb7f"/><text x="49" y="21" text-anchor="middle" fill="#6b4a06" class="t">Core Java</text></g></g>
+<g transform="translate(114 234)"><g class="c" style="animation-delay:0.7s,0.7s"><rect class="bg" style="animation-delay:0.7s" width="106" height="32" rx="16" fill="#fdf0d0" stroke="#eacb7f"/><text x="53" y="21" text-anchor="middle" fill="#6b4a06" class="t">JavaScript</text></g></g>
+<g transform="translate(230 234)"><g class="c" style="animation-delay:1.05s,1.05s"><rect class="bg" style="animation-delay:1.05s" width="83" height="32" rx="16" fill="#fdf0d0" stroke="#eacb7f"/><text x="41" y="21" text-anchor="middle" fill="#6b4a06" class="t">Node.js</text></g></g>
+<g transform="translate(323 234)"><g class="c" style="animation-delay:1.4s,1.4s"><rect class="bg" style="animation-delay:1.4s" width="75" height="32" rx="16" fill="#fdf0d0" stroke="#eacb7f"/><text x="37" y="21" text-anchor="middle" fill="#6b4a06" class="t">Python</text></g></g>
+<g transform="translate(408 234)"><g class="c" style="animation-delay:1.75s,1.75s"><rect class="bg" style="animation-delay:1.75s" width="144" height="32" rx="16" fill="#fdf0d0" stroke="#eacb7f"/><text x="72" y="21" text-anchor="middle" fill="#6b4a06" class="t">Shell scripting</text></g></g>
+<text x="6" y="300" class="lb">CI/CD, cloud and containers</text>
+<g transform="translate(6 312)"><g class="c" style="animation-delay:2.1s,2.1s"><rect class="bg" style="animation-delay:2.1s" width="83" height="32" rx="16" fill="#ece4fb" stroke="#c3aaf0"/><text x="41" y="21" text-anchor="middle" fill="#3f2a78" class="t">Jenkins</text></g></g>
+<g transform="translate(99 312)"><g class="c" style="animation-delay:2.45s,2.45s"><rect class="bg" style="animation-delay:2.45s" width="68" height="32" rx="16" fill="#ece4fb" stroke="#c3aaf0"/><text x="34" y="21" text-anchor="middle" fill="#3f2a78" class="t">Maven</text></g></g>
+<g transform="translate(177 312)"><g class="c" style="animation-delay:2.8s,2.8s"><rect class="bg" style="animation-delay:2.8s" width="52" height="32" rx="16" fill="#ece4fb" stroke="#c3aaf0"/><text x="26" y="21" text-anchor="middle" fill="#3f2a78" class="t">Git</text></g></g>
+<g transform="translate(239 312)"><g class="c" style="animation-delay:0.0s,0.0s"><rect class="bg" style="animation-delay:0.0s" width="75" height="32" rx="16" fill="#ece4fb" stroke="#c3aaf0"/><text x="37" y="21" text-anchor="middle" fill="#3f2a78" class="t">GitHub</text></g></g>
+<g transform="translate(324 312)"><g class="c" style="animation-delay:0.35s,0.35s"><rect class="bg" style="animation-delay:0.35s" width="75" height="32" rx="16" fill="#ece4fb" stroke="#c3aaf0"/><text x="37" y="21" text-anchor="middle" fill="#3f2a78" class="t">Docker</text></g></g>
+<g transform="translate(409 312)"><g class="c" style="animation-delay:0.7s,0.7s"><rect class="bg" style="animation-delay:0.7s" width="52" height="32" rx="16" fill="#ece4fb" stroke="#c3aaf0"/><text x="26" y="21" text-anchor="middle" fill="#3f2a78" class="t">AWS</text></g></g>
+<text x="6" y="378" class="lb">Databases, logging and reporting</text>
+<g transform="translate(6 390)"><g class="c" style="animation-delay:1.05s,1.05s"><rect class="bg" style="animation-delay:1.05s" width="106" height="32" rx="16" fill="#fde2ea" stroke="#f0a9be"/><text x="53" y="21" text-anchor="middle" fill="#7a1f3d" class="t">SQL Server</text></g></g>
+<g transform="translate(122 390)"><g class="c" style="animation-delay:1.4s,1.4s"><rect class="bg" style="animation-delay:1.4s" width="75" height="32" rx="16" fill="#fde2ea" stroke="#f0a9be"/><text x="37" y="21" text-anchor="middle" fill="#7a1f3d" class="t">Oracle</text></g></g>
+<g transform="translate(207 390)"><g class="c" style="animation-delay:1.75s,1.75s"><rect class="bg" style="animation-delay:1.75s" width="68" height="32" rx="16" fill="#fde2ea" stroke="#f0a9be"/><text x="34" y="21" text-anchor="middle" fill="#7a1f3d" class="t">MySQL</text></g></g>
+<g transform="translate(285 390)"><g class="c" style="animation-delay:2.1s,2.1s"><rect class="bg" style="animation-delay:2.1s" width="75" height="32" rx="16" fill="#fde2ea" stroke="#f0a9be"/><text x="37" y="21" text-anchor="middle" fill="#7a1f3d" class="t">Allure</text></g></g>
+<g transform="translate(370 390)"><g class="c" style="animation-delay:2.45s,2.45s"><rect class="bg" style="animation-delay:2.45s" width="75" height="32" rx="16" fill="#fde2ea" stroke="#f0a9be"/><text x="37" y="21" text-anchor="middle" fill="#7a1f3d" class="t">Extent</text></g></g>
+<g transform="translate(455 390)"><g class="c" style="animation-delay:2.8s,2.8s"><rect class="bg" style="animation-delay:2.8s" width="75" height="32" rx="16" fill="#fde2ea" stroke="#f0a9be"/><text x="37" y="21" text-anchor="middle" fill="#7a1f3d" class="t">Splunk</text></g></g>
+<g transform="translate(540 390)"><g class="c" style="animation-delay:0.0s,0.0s"><rect class="bg" style="animation-delay:0.0s" width="68" height="32" rx="16" fill="#fde2ea" stroke="#f0a9be"/><text x="34" y="21" text-anchor="middle" fill="#7a1f3d" class="t">log4j</text></g></g>
+<text x="6" y="456" class="lb">Tools and platforms</text>
+<g transform="translate(6 468)"><g class="c" style="animation-delay:0.35s,0.35s"><rect class="bg" style="animation-delay:0.35s" width="60" height="32" rx="16" fill="#d9f3f2" stroke="#8fd3cf"/><text x="30" y="21" text-anchor="middle" fill="#0f4c4a" class="t">Jira</text></g></g>
+<g transform="translate(76 468)"><g class="c" style="animation-delay:0.7s,0.7s"><rect class="bg" style="animation-delay:0.7s" width="68" height="32" rx="16" fill="#d9f3f2" stroke="#8fd3cf"/><text x="34" y="21" text-anchor="middle" fill="#0f4c4a" class="t">Rally</text></g></g>
+<g transform="translate(154 468)"><g class="c" style="animation-delay:1.05s,1.05s"><rect class="bg" style="animation-delay:1.05s" width="83" height="32" rx="16" fill="#d9f3f2" stroke="#8fd3cf"/><text x="41" y="21" text-anchor="middle" fill="#0f4c4a" class="t">VS Code</text></g></g>
+<g transform="translate(247 468)"><g class="c" style="animation-delay:1.4s,1.4s"><rect class="bg" style="animation-delay:1.4s" width="136" height="32" rx="16" fill="#d9f3f2" stroke="#8fd3cf"/><text x="68" y="21" text-anchor="middle" fill="#0f4c4a" class="t">Linux and UNIX</text></g></g>
+</svg>

@@ -1,84 +1,79 @@
-<h1 align="center">Hi, I'm Litesh Zadane</h1>
-<h3 align="center">QA Automation Engineer | UI and API Test Automation | Payments and Financial Services</h3>
+<!-- Animated header -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Litesh%20Zadane&fontSize=52&fontAlignY=36&animation=fadeIn&desc=QA%20Automation%20Engineer&descSize=22&descAlignY=58" alt="Litesh Zadane, QA Automation Engineer" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20work-QA%20automation%20roles%20in%20Pune%20%26%20Remote-1b7f55?style=for-the-badge" alt="Open to QA automation roles in Pune and Remote">
-</p>
+  <a href="https://qa-portfolio-liteshz.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1300&color=2B4ACB&center=true&vCenter=true&width=760&height=44&lines=QA+Automation+Engineer;UI+%26+API+Test+Automation;Selenium+%7C+Karate+%7C+REST+Assured;Payments+%26+Financial+Services+QA" alt="Typing animation of my specialisations" />
+  </a>
 
-<p align="center">
-  <a href="https://YOUR-PORTFOLIO-URL.vercel.app"><img src="https://img.shields.io/badge/Portfolio-14213d?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:litesh1778.zadane@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://hub.docker.com/u/liteshz"><img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub"></a>
-</p>
+  <br><br>
+  <img src="assets/open-to-work.svg" alt="Open to QA automation roles in Pune and Remote" />
+  <br><br>
 
----
+  <a href="https://qa-portfolio-liteshz.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-qa--portfolio--liteshz-14213d?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website" /></a>
+  <a href="mailto:litesh1778.zadane@gmail.com?subject=Opportunity%3A%20QA%20Automation%20Engineer%20role"><img src="https://img.shields.io/badge/Email-litesh1778.zadane%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
+  <a href="https://qa-portfolio-liteshz.vercel.app/#contact"><img src="https://img.shields.io/badge/Phone-%2B91%208788485192-1b7f55?style=for-the-badge&logo=googlephone&logoColor=white" alt="Phone number" /></a>
+  <br>
+  <a href="https://github.com/liteshz1778"><img src="https://img.shields.io/badge/GitHub-liteshz1778-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://hub.docker.com/u/liteshz"><img src="https://img.shields.io/badge/Docker%20Hub-liteshz-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub profile" /></a>
+</div>
 
-## About me
+<br>
+
+<details open>
+<summary><h2>👤 Professional Summary</h2></summary>
+
+<br>
 
 Senior Test Engineer with 6.5 years of experience testing payments, banking and telecom software. I build UI and API automation that runs in CI and catches defects before release, and I test every layer of an application: what users click, what the APIs return and what ends up in the database.
 
-- Based in Pune, India, and open to QA automation roles in Pune and remote
-- Latest role: Senior Test Engineer at LTIMindTree on the Western Union account (money transfer and digital payments)
-- Comfortable across the stack: Selenium, Karate, REST Assured, Jenkins, Docker and AWS
-- Languages: English, Hindi, Marathi
+- **Current Focus:** UI and API test automation with Selenium, Karate and REST Assured
+- **Latest Role:** Senior Test Engineer at LTIMindTree, on the Western Union account (digital payments and money transfer)
+- **Domain Expertise:** Payments, banking, telecom and financial services
+- **DevOps Exposure:** Jenkins pipelines, Docker containers and AWS test environments
+- **Location and Availability:** Pune, India. Open to QA automation roles in Pune & Remote
+- **Languages:** English, Hindi, Marathi
 
-## Tech stack
+</details>
 
-**Test automation**
+<details open>
+<summary><h2>🛠️ Technical Skills</h2></summary>
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=flat-square)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
-![Karate](https://img.shields.io/badge/Karate-2E7D32?style=flat-square)
-![REST Assured](https://img.shields.io/badge/REST%20Assured-2C5F2D?style=flat-square)
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white)
+<br>
 
-**API and performance testing**
+<div align="center">
+  <img src="assets/tech-stack.svg" width="820" alt="Technical skills: test automation, API and performance testing, languages, CI/CD and cloud, databases and reporting, tools" />
+</div>
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![SoapUI](https://img.shields.io/badge/SoapUI-4CAF50?style=flat-square)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+<br>
 
-**Languages and scripting**
+- **Testing Types:** Functional, regression, integration, system, UAT, smoke, sanity, compatibility, GUI, API, globalization
+- **Framework Design:** Page Object Model, data-driven, BDD and hybrid frameworks with parallel execution on Chrome, Firefox and IE
 
-![Java](https://img.shields.io/badge/Core%20Java-ED8B00?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+</details>
 
-**CI/CD, cloud and containers**
+<details open>
+<summary><h2>🚀 Automation Frameworks & Projects</h2></summary>
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square)
+<br>
 
-**Databases, reporting and tools**
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Allure](https://img.shields.io/badge/Allure-9C27B0?style=flat-square)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-
-## Featured work
-
-| Area | Repository | What it shows |
+| Focus Area | Project | Skills Demonstrated |
 | --- | --- | --- |
-| UI automation | [BDD_Cucumber_Automation_Project](https://github.com/liteshz1778/BDD_Cucumber_Automation_Project) | Selenium WebDriver, Core Java and a BDD Cucumber framework automating the NopCommerce demo store, with screenshots as evidence |
-| UI automation | [UI_Automation](https://github.com/liteshz1778/UI_Automation) | Selenium, TestNG and a data-driven framework automating OrangeHRM, with screenshots as evidence |
-| API automation | [RestAssuredAutomation](https://github.com/liteshz1778/RestAssuredAutomation) | REST API tests with REST Assured, Core Java, TestNG and external test data, with logs and reports |
-| API automation | [KarateFramework_BookingAPITest](https://github.com/liteshz1778/KarateFramework_BookingAPITest) | Booking API tests in the Karate framework with Maven and a central config file |
-| CI/CD | [docker_jenkins_demo_pipeline](https://github.com/liteshz1778/docker_jenkins_demo_pipeline) | Jenkinsfiles that build Docker images, push them to Docker Hub and deploy containers |
-| Onboarding | [LTIMAssignment1-3](https://github.com/liteshz1778/LTIMAssignment1-3) | UI and REST API automation assignment completed during onboarding for the Western Union project at LTIMindtree |
+| UI Automation Framework | [BDD Cucumber Automation Project](https://github.com/liteshz1778/BDD_Cucumber_Automation_Project) | Selenium WebDriver, Core Java and BDD Cucumber automating the NopCommerce demo store, with screenshots as evidence |
+| UI Automation Framework | [UI Automation (OrangeHRM)](https://github.com/liteshz1778/UI_Automation) | Selenium, TestNG and a data-driven framework, with screenshots as evidence |
+| API Automation Framework | [REST Assured Automation](https://github.com/liteshz1778/RestAssuredAutomation) | REST Assured, Core Java, TestNG and external test data, with logs and reports |
+| API Automation Framework | [Karate Booking API Tests](https://github.com/liteshz1778/KarateFramework_BookingAPITest) | Karate framework, Maven and a central configuration file |
+| CI/CD Pipeline Automation | [Docker and Jenkins Demo Pipeline](https://github.com/liteshz1778/docker_jenkins_demo_pipeline) | Jenkinsfiles that build Docker images, push them to Docker Hub and deploy containers |
+| Onboarding Assessment | [LTIM Assignment 1 and 3](https://github.com/liteshz1778/LTIMAssignment1-3) | UI and REST API automation assignment completed during onboarding for the Western Union project at LTIMindtree |
 
-## Experience
+</details>
 
-| Period | Role | Company | Domain |
+<details open>
+<summary><h2>💼 Professional Experience</h2></summary>
+
+<br>
+
+| Period | Role | Organisation | Domain |
 | --- | --- | --- | --- |
 | Apr 2024 to Jan 2026 | Senior Test Engineer | LTIMindTree (client: Western Union) | Digital payments and money transfer |
 | Jul 2023 to Jan 2024 | DevOps Engineer Intern | Web Soft IT Solutions | AWS, Docker, Jenkins |
@@ -86,28 +81,75 @@ Senior Test Engineer with 6.5 years of experience testing payments, banking and 
 | Dec 2020 to Nov 2021 | Test Engineer | QualityKiosk Technologies | Banking |
 | May 2019 to Dec 2020 | Software Test Engineer | Kastham Technologies | Telecom and financial services |
 
-## Certifications
+</details>
 
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/4b4a07da-2f17-4f1e-a7d3-8e8f2d9840f3/public_url)
-- [REST API Testing and Automation Using Postman](https://drive.google.com/file/d/1ZDgOKyPGfd_nFa-uc-7gtHqW1usqID0k/view?usp=sharing) (Udemy)
-- [REST API Automation With Rest Assured](https://drive.google.com/file/d/16E2eHr2bgScjb9_4tCHXx4Zk4_zFjn68/view?usp=sharing) (Udemy)
-- [Certified Kubernetes Administrator (CKA) with Practice Tests](https://drive.google.com/file/d/1OXgvT6BqFUJUmI0Ptsx9UCZpzEe6P09r/view?usp=sharing) (Udemy)
+<details open>
+<summary><h2>🎓 Certifications & Education</h2></summary>
+
+<br>
+
+**Cloud and DevOps Certifications**
+
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/4b4a07da-2f17-4f1e-a7d3-8e8f2d9840f3/public_url) (Amazon Web Services)
 - [Terraform Basic Training](https://drive.google.com/file/d/1hFJfO7uy8Bmp5AzfwckwV6vWiZSdDafA/view?usp=sharing) (KodeKloud)
 - [Helm for Beginners](https://drive.google.com/file/d/1za4R7vW9BiBj8br8CqwAgN-_w2k53ZOo/view?usp=sharing) (KodeKloud)
 - [Ansible Basic Training](https://drive.google.com/file/d/1JxCQ30G57xE5-FO89owgsiDf-6UsOGMl/view?usp=sharing) (KodeKloud)
 - [Ansible Advanced Training](https://drive.google.com/file/d/1VId1SE8SGYMx5INRwm32GpGJWgmzpRpr/view?usp=sharing) (KodeKloud)
+- [Certified Kubernetes Administrator (CKA) with Practice Tests](https://drive.google.com/file/d/1OXgvT6BqFUJUmI0Ptsx9UCZpzEe6P09r/view?usp=sharing) (Udemy)
 
-## Education
+**API Testing Certifications**
 
-- Master of Computer Applications (MCA), Savitribai Phule Pune University, 2022
-- Bachelor of Computer Science (BCS), Savitribai Phule Pune University, 2019
+- [REST API Testing & Automation Using Postman](https://drive.google.com/file/d/1ZDgOKyPGfd_nFa-uc-7gtHqW1usqID0k/view?usp=sharing) (Udemy)
+- [REST API Automation With Rest Assured](https://drive.google.com/file/d/16E2eHr2bgScjb9_4tCHXx4Zk4_zFjn68/view?usp=sharing) (Udemy)
 
-## GitHub stats
+**Academic Qualifications**
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=liteshz1778&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
-</p>
+- **MCA:** Master of Computer Applications, Savitribai Phule Pune University, 2022
+- **BCS:** Bachelor of Computer Science, Savitribai Phule Pune University, 2019
 
-## Let's connect
+</details>
 
-Hiring for a QA automation role in Pune or remote? Email me at [litesh1778.zadane@gmail.com](mailto:litesh1778.zadane@gmail.com) and I'll share my resume and examples of my framework work.
+<details open>
+  <summary><h2>📊 Stats & 📈 Activity Graph</h2></summary>
+  <!--- https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md ------>
+  <table align="center" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" valign="center">
+         <!------- https://github.com/Pranesh-2005/github-readme-stats-fast --->
+        <img width="500" src="https://github-readme-stats-fast.vercel.app/api?username=liteshz1778&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+        <br><br>
+        <!---- https://streak-stats.demolab.com/demo/ -------->
+        <img width="500" src="https://streak-stats.demolab.com?user=liteshz1778&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+      </td>
+      <td align="center" valign="top">
+          <!------- https://github.com/Pranesh-2005/github-readme-stats-fast --->
+        <img width="350" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=liteshz1778&size_weight=1&count_weight=1&langs_count=40&theme=github_dark&layout=donut-vertical&hide_border=true" alt="GitHub Top Lang Used"/>
+      </td>
+    </tr>
+  </table>
+  <div align="center">
+      <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+    <img width="1500" src="https://github-readme-activity-graph.vercel.app/graph?username=liteshz1778&hide_border=true&theme=github" alt="Activity Graph">
+  </div>
+</details>
+
+<details open>
+<summary><h2>🤝 Contact & Availability</h2></summary>
+
+<br>
+
+| Channel | Details | Action |
+| --- | --- | --- |
+| 📧 Email | litesh1778.zadane@gmail.com | [Open in mail app](mailto:litesh1778.zadane@gmail.com?subject=Opportunity%3A%20QA%20Automation%20Engineer%20role&body=Hi%20Litesh%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20would%20like%20to%20discuss%20a%20QA%20automation%20role.%0A%0ARegards%2C) or [Compose in Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=litesh1778.zadane@gmail.com&su=Opportunity%3A%20QA%20Automation%20Engineer%20role) |
+| 📞 Phone | +91 8788485192 | [Tap to call from the portfolio](https://qa-portfolio-liteshz.vercel.app/#contact) |
+| 🌐 Portfolio | qa-portfolio-liteshz.vercel.app | [Visit website](https://qa-portfolio-liteshz.vercel.app/) |
+| 🐙 GitHub | liteshz1778 | [View profile](https://github.com/liteshz1778) |
+| 🐳 Docker Hub | liteshz | [View images](https://hub.docker.com/u/liteshz) |
+
+> **If a link does not open the expected app:** for email, use the Gmail option or copy the address above. GitHub blocks direct `tel:` links, so the phone link opens my portfolio's contact section, where tap-to-call opens your phone dialer on mobile.
+
+</details>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" alt="" />
+</div>
