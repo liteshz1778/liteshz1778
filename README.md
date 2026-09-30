@@ -1,6 +1,6 @@
 <!-- Animated header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Litesh%20Zadane&fontSize=52&fontAlignY=36&animation=fadeIn&desc=QA%20Automation%20Engineer&descSize=22&descAlignY=58" alt="Litesh Zadane, QA Automation Engineer" />
+  <img width="100%" src="assets/banner.svg" alt="QA AUTOMATION ENGINEER, Litesh Zadane" />
 
   <a href="https://qa-portfolio-liteshz.vercel.app/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1300&color=2B4ACB&center=true&vCenter=true&width=760&height=44&lines=QA+Automation+Engineer;UI+%26+API+Test+Automation;Selenium+%7C+Karate+%7C+REST+Assured;Payments+%26+Financial+Services+QA" alt="Typing animation of my specialisations" />
