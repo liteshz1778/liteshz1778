@@ -136,7 +136,7 @@ Senior Test Engineer with 6.5 years of experience testing payments, banking and 
 
 | Channel | Details | Action |
 | --- | --- | --- |
-| 📧 Email | litesh1778.zadane@gmail.com | [Open in mail app](mailto:litesh1778.zadane@gmail.com?subject=Opportunity%3A%20QA%20Automation%20Engineer%20role&body=Hi%20Litesh%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20would%20like%20to%20discuss%20a%20QA%20automation%20role.%0A%0ARegards%2C) or [Compose in Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=litesh1778.zadane@gmail.com&su=Opportunity%3A%20QA%20Automation%20Engineer%20role) |
+| 📧 Email | litesh1778.zadane@gmail.com / zadane1778.litesh@gmail.com | [Open in mail app](mailto:litesh1778.zadane@gmail.com?subject=Opportunity%3A%20QA%20Automation%20Engineer%20role&body=Hi%20Litesh%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20would%20like%20to%20discuss%20a%20QA%20automation%20role.%0A%0ARegards%2C) or [Compose in Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=litesh1778.zadane@gmail.com&su=Opportunity%3A%20QA%20Automation%20Engineer%20role) |
 | 📞 Phone | +91 8788485192 | [Tap to call from the portfolio](https://qa-portfolio-liteshz.vercel.app/#contact) |
 | 🌐 Portfolio | qa-portfolio-liteshz.vercel.app | [Visit website](https://qa-portfolio-liteshz.vercel.app/) |
 | 🐙 GitHub | liteshz1778 | [View profile](https://github.com/liteshz1778) |
