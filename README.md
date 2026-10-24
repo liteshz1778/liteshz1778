@@ -10,6 +10,7 @@
   <img src="assets/open-to-work.svg" alt="Open to QA automation roles in Pune and Remote" />
   <br><br>
 
+  <img src="https://komarev.com/ghpvc/?username=liteshz1778&label=Profile_Views&color=0e75b6&style=for-the-badge" />
   <a href="https://qa-portfolio-liteshz.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-qa--portfolio--liteshz-14213d?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website" /></a>
   <a href="mailto:litesh1778.zadane@gmail.com?subject=Opportunity%3A%20QA%20Automation%20Engineer%20role"><img src="https://img.shields.io/badge/Email-litesh1778.zadane%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
   <a href="https://qa-portfolio-liteshz.vercel.app/#contact"><img src="https://img.shields.io/badge/Phone-%2B91%208788485192-1b7f55?style=for-the-badge&logo=googlephone&logoColor=white" alt="Phone number" /></a>
